@@ -1,3 +1,5 @@
+#code is written by Vivek sharma. contact number 7979015053..
+#mail id : vivekrsashok2003@gmail.com
 <?php
 define('DB_SERVER','localhost:3307');
 define('DB_USERNAME','root');
